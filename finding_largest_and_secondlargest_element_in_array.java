@@ -1,4 +1,4 @@
-class demo{
+class finding_largest_and_secondlargest_element_in_array{
     public static void main(String args[]){
 
          // finding the largest and the second largest element from an array...
